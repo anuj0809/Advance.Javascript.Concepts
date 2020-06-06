@@ -1,0 +1,4 @@
+if(1) {
+  const test1 = 'Sunil';
+}
+console.log('test1', test1);
